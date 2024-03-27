@@ -1,0 +1,6 @@
+
+public enum Cargo {
+	
+	TECNICO, ANALISTA, ACESSOR, ADMINISTRATIVO, DIRETOR;
+	
+}
